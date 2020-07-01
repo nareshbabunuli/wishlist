@@ -1,17 +1,18 @@
 # wishlist App
  <br> Features:
  <br>
- Customer views  :<br>
+ Customer views  :<br> 
+    
+    
    - Can create Wishlist of products<br>
-   - Login & Register  <br>
-   - Register<br>
+   - Login & Register  <br>`http://localhost/`
    - Export Csv File though command line (CLI)
   
  <br>Consumers views : 
  To access Consumer Login 
- ``
+
  - Can Create its Own Products and Own Wishlist 
- - Login and Register 
+ - Login and Register  `http://localhost/admin`
  - Export Csv File though command line (CLI)
  
  Super Admin 
