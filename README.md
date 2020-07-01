@@ -30,7 +30,7 @@
   - `cd wishlist`  (Project Folder)
 <br> Used Laradock  for Containerization 
   - `cd dock`
-  - `docker-compose up -d nginx mysql phpmyadmin`
+  - `docker-compose up -d nginx mysql phpmyadmin workspace`
   
     - site       : `http://localhost/`
     - phpmyadmin : `http://localhost:8081/`
