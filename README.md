@@ -28,6 +28,7 @@
 - `git clone https://github.com/nareshbabunuli/wishlist.git`
 
   - `cd wishlist`  (Project Folder)
+  - `composer install`
 <br> Used Laradock  for Containerization 
   - `cd dock`
   - `docker-compose up -d nginx mysql phpmyadmin workspace`
@@ -52,7 +53,7 @@
        1 - Consumers Wishlist 
 <br>
 
-Note : For Ease of use I have added vendor files and laradock 
+
 For any  quires you can ping me My Email:nareshbabu.nuli@gmail.com
     
  
