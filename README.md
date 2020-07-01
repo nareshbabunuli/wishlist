@@ -38,7 +38,7 @@
          <br> - Server:`mysql`, username:`default`, password :`secret`
             <br>(You can find these credential in .env files)
   
-     - Go to database the folder, you will find wishlist.sql file import it into a database using phpmyadmin
+     - Go to database the folder, you will find wishlist.sql file in dump folder import it into a database using phpmyadmin
      
      Done  :) you can run the application  
      
