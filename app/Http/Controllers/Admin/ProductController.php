@@ -116,7 +116,7 @@ class ProductController extends Controller
             'product_category'
         ]);
         $product = Products::find($id);
-        $image_path = public_path() . '/storage/' . $product->image;
+        $image_path = public_path() . '/product_images/' . $product->image;
         if (isset($request->image) == true) {
             if (file_exists($image_path)) {
                 unlink($image_path);
